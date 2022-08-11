@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Crypto-currated/static/css/main.5b9e5779.css",
+    "main.js": "/Crypto-currated/static/js/main.b071f852.js",
+    "static/media/cryptocurrency.png": "/Crypto-currated/static/media/cryptocurrency.1548aced3f0605895bac.png",
+    "index.html": "/Crypto-currated/index.html",
+    "main.5b9e5779.css.map": "/Crypto-currated/static/css/main.5b9e5779.css.map",
+    "main.b071f852.js.map": "/Crypto-currated/static/js/main.b071f852.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b9e5779.css",
+    "static/js/main.b071f852.js"
+  ]
+}
